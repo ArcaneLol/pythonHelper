@@ -1,3 +1,4 @@
-from main import getEven
+from main import getEven, getOdd, getPrimes
 
-print(getEven(num3=10))
+print(getOdd(num1=20, num3=10))
+print(getPrimes(5000))
